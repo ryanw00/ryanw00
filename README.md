@@ -1,21 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME&fontColor=28DC7A&fontSize=90&fontAlignY=35&desc=helloworld!&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D9EF6&height=300&section=header&text=WELCOME&fontColor=FCFEFF&fontSize=90&fontAlignY=35&desc=seungyeop's%20github!&animation=scaleIn)
 
-# Hey there, I'm Seungyeop Woo! 👋
-## Crafting code and coffee ☕
-
-I'm a spirited [Your Profession/Role] who loves to turn ideas into reality. My coding journey is filled with projects that range from solving small puzzles to building large systems.
-
-### Currently:
-- 🔭 Working on [project or technology]
-- 🌟 Excited about [technology or topic]
-- 📫 How to reach me: [Your email]
-
-### Fun facts:
-- I love [hobby or interest]
-- On weekends, you'll find me [activity]
-
-### Let's connect and chat!
-- [Instagram](Your Instagram URL)
-- [Blog](Your blog URL)
-
-Stay curious and happy coding!
+<div align="left">   
+  <hr>
+  <h3>👋 Hi, I'm Seungyeop Woo!</h3>
+  <p>🎓 Studying Business at Hanyang University</p>
+  <p>📚 Passionate about learning data analysis using Python and exploring machine learning</p>
+  <blockquote>
+> Think different - Steve Jobs
+  </blockquote>
+  <h2 align="center">📫 How to Reach Me:</h2>
+<p align="center">
+  <a href="https://github.com/ryanw00" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:brianuh@hanyang.ac.kr" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://www.instagram.com/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+</p>
